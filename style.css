@@ -1,0 +1,103 @@
+body
+{
+  background-color: #ffe6e6;
+}
+.first
+{
+  height: 80px;
+  width : 80px;
+  border-style : solid;
+  border-width : 5px;
+  border-color: #ffabe1;
+  position: absolute;
+  top :85px;
+  left :85px;
+}
+.second
+{
+  height: 80px;
+  width : 80px;
+  border-style : solid;
+  border-width : 5px;
+  border-color: #ffabe1;
+  border-top : none;
+  border-bottom: none;
+}
+.third
+{
+  height: 80px;
+  width : 80px;
+  border-style : solid;
+  border-width : 5px;
+  border-color: #ffabe1;
+  border-left : none;
+  border-right: none;
+}
+.box
+{
+  height: 80px;
+  width : 80px;
+  margin : 0px;
+}
+.cont
+{
+  position : absolute;
+  top : 40%;
+  left : 40%;
+  width : 250px;
+  height: 250px;
+
+}
+
+
+.x
+{
+  font-family : sans-serif;
+  font-size: 90px;
+  color : #6155a6;
+  text-align: center;
+  position: relative;
+  top : -5px;
+  left : 10px;
+  margin: 0px;
+}
+.o
+{
+  border-radius: 35px;
+  border-width : 4px;
+  border-style: solid;
+    border-color: #a685e2;
+  font-size: 0px;
+  height: 65px;
+  width: 65px;
+  position: relative;
+  top : 10px;
+  left : 10px;
+  margin: 0px;
+}
+
+
+p
+{
+
+    border-color: none;
+  font-size: 0px;
+  height: 80px;
+  width: 80px;
+  position: relative;
+  top : 5px;
+  left : 5px;
+  margin: 0px;
+}
+h1
+{
+  font-family : sans-serif;
+  font-size: 50px;
+  width : 20vw;
+  color : #a685e2;
+  position: absolute;
+  text-align: center;
+  top : 5vh;
+  left : 40vw;
+  margin: 0px;
+}
